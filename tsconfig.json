@@ -33,7 +33,8 @@
   "include": [
     "framework",
     "application",
-    "caching-fetch-library"
+    "caching-fetch-library",
+    "setupTests.ts"
   ],
-  "exclude": ["node_modules", "**/__tests__/**"]
+  "exclude": ["node_modules"]
 }
